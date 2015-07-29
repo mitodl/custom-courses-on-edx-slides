@@ -44,7 +44,3 @@ Delegated educators ("coaches") can:
 - select a subset of material from the MOOC
 - invite & administer a *small* group of students
 - view and download grades for their group of students
-
-
-
----
