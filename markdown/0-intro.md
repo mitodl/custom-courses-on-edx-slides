@@ -44,3 +44,15 @@ Delegated educators ("coaches") can:
 - select a subset of material from the MOOC
 - invite & administer a *small* group of students
 - view and download grades for their group of students
+
+---
+
+class: big_bullets 
+
+# Status of CCX
+
+- MVP version on edge
+	- requires an advanced setting
+- no analytics (yet)
+- no discussions
+- Available on edx.org in a few weeks
