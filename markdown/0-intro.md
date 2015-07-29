@@ -52,7 +52,7 @@ class: big_bullets
 # Status of CCX
 
 - MVP version on edge
-	- requires an advanced setting
 - no analytics (yet)
 - no discussions
+- only one CCX per coach
 - Available on edx.org in a few weeks
